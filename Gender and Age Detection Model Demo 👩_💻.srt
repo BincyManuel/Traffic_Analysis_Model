@@ -1,0 +1,91 @@
+1
+00:00:01,613 --> 00:00:04,826
+This is a video that shows the working of the model,
+
+2
+00:00:05,206 --> 00:00:09,773
+which helps in the detection of the gender and age of the persons
+
+3
+00:00:09,774 --> 00:00:14,000
+in a meeting room. So, I will just run this code and show how
+
+4
+00:00:14,020 --> 00:00:17,647
+this works. So,
+
+5
+00:00:17,667 --> 00:00:22,755
+yeah, it's running over Let's
+
+6
+00:00:22,795 --> 00:00:25,960
+wait for a minute. Okay,
+
+7
+00:00:25,980 --> 00:00:28,384
+so here the window has been displayed.
+
+8
+00:00:28,885 --> 00:00:32,369
+And now when I click on this upload image option,
+
+9
+00:00:32,370 --> 00:00:36,674
+uh, it displays a screen for selecting the image.
+
+10
+00:00:36,694 --> 00:00:40,219
+So, I'm clicking just this test tree.
+
+11
+00:00:40,720 --> 00:00:43,263
+So, as you can see, according to the model,
+
+12
+00:00:43,283 --> 00:00:46,238
+if the number of persons is less than two,
+
+13
+00:00:46,298 --> 00:00:50,904
+it should detect as, please upload an image with more than two people.
+
+14
+00:00:50,924 --> 00:00:54,489
+So, when I click on this detect division gender button,
+
+15
+00:00:54,490 --> 00:00:56,712
+it shows upload an image with more than two people.
+
+16
+00:00:57,353 --> 00:00:59,933
+So, I will upload an image.
+
+17
+00:00:59,934 --> 00:01:03,388
+More than two people, so I will upload this,
+
+18
+00:01:03,368 --> 00:01:08,175
+so here, so when I click on the detect age and gender,
+
+19
+00:01:08,695 --> 00:01:11,859
+it shows that there are three males with the respective ages,
+
+20
+00:01:12,681 --> 00:01:16,555
+so I will also do this with another image,
+
+21
+00:01:16,695 --> 00:01:22,815
+so here, so it's
+
+22
+00:01:22,816 --> 00:01:27,355
+showing a male of about 45 years old and a female of 25
+
+23
+00:01:27,356 --> 00:01:30,135
+years old, so thank you.

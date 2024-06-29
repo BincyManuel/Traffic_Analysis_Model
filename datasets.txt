@@ -1,0 +1,6 @@
+vehicle detection: https://www.kaggle.com/datasets/pratikbarua/vehicle-detection-dataset
+
+pedestrian detection: https://www.kaggle.com/datasets/alincijov/penn-fudan
+
+colour detection: https://www.kaggle.com/datasets/landrykezebou/vcor-vehicle-color-recognition-dataset
+
